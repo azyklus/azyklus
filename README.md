@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub Stat Cards -->
+<div white-space="nowrap">
+    <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mnimi&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf">
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnimi&hide_border=true&theme=dark&text_color=fff">
+</div>
