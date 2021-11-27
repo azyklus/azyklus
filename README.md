@@ -2,7 +2,7 @@
 
 My name is Yarot Kell, but you're welcome to just call me Yarot.
 
-One day in 2019, I deleted my old GitHub account, so I'm afraid I can't really offer it as proof of my *sick skills*.
+One day in 2019, I deleted my old GitHub account, so I'm afraid I can't really offer it as proof of my *sick skills*. (/s).
 
 In 2020, after I left my job as a gas station attendant, I created this account in hopes that I might be able to work on my skills as a programmer
 once more. Since then, I have created a handful of small projects that haven't really gone anywhere but have helped me learn new things, form better
