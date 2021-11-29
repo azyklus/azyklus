@@ -11,7 +11,7 @@ habits, and (attempt) to kick the bad ones. I picked up the Rust programming lan
 Most of my projects on here will probably be archived eventually, for one reason or another, but most of it is here for self-improvement so feel free
 to critique it as you see fit. I will likely be better for it.
 
-### About me
+<br/>
 
 - 🔭 I am currently working on a bare-bones operating system and kernel that I called [PSYS](https://github.com/mnimi/psys);
 - 🌱 I am currently experimenting with the [Zig programming language](https://ziglang.org);
