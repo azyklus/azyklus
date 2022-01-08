@@ -14,29 +14,14 @@ to critique it as you see fit. I will likely be better for it.
 <br/>
 
 - 🔭 I am currently working on a bare-bones operating system and kernel that I called [PSYS](https://github.com/mnimi/psys);
-- 🌱 I am currently experimenting with the [Zig programming language](https://ziglang.org);
+- 🌱 I am currently experimenting with the [Julia](https://julialang.org/) programming language;
 - 👯 I am looking to collaborate more on open source in general.
-- 💬 Feel free to ask me about my code, my interests, and hobbies, but keep my personal life out of it.
+- 💬 Feel free to ask me about my code, my interests, hobbies, and more.
 - 📫 How to reach me: [I am on Twitter](https://twitter.com/yarotk)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learned C through my childhood with the help of my uncle.
 
 <hr/>
-
-<!--
-**mnimi/mnimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- GitHub Stat Cards -->
 <div white-space="nowrap">
