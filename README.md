@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Yarot Kell, but you're welcome to just call me Yarot.
+My name is Malachi, although I prefer to be called Yarot.
 
-One day in 2019, I deleted my old GitHub account, so I'm afraid I can't really offer it as proof of my *sick skills*. (/s).
+One day in 2019, I deleted my old GitHub account, so I'm afraid I can't offer it as proof of anything I've contributed to.
 
 In 2020, after I left my job as a gas station attendant, I created this account in hopes that I might be able to work on my skills as a programmer
 once more. Since then, I have created a handful of small projects that haven't really gone anywhere but have helped me learn new things, form better
@@ -13,11 +13,11 @@ to critique it as you see fit. I will likely be better for it.
 
 <br/>
 
-- 🔭 I am currently working on a bare-bones operating system and kernel that I called [PSYS](https://github.com/mnimi/psys);
+- 🔭 I am currently working on a bare-bones operating system and kernel that I called [TIES](https://github.com/mnimi/t2);
 - 🌱 I am currently experimenting with the [Julia](https://julialang.org/) programming language;
 - 👯 I am looking to collaborate more on open source in general.
 - 💬 Feel free to ask me about my code, my interests, hobbies, and more.
-- 📫 How to reach me: [I am on Twitter](https://twitter.com/yarotk)
+- 📫 How to reach me: [I am on Twitter](https://twitter.com/AndererZyklus)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learned C through my childhood with the help of my uncle.
 
