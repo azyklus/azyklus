@@ -2,11 +2,7 @@
 
 My name is Malachi, although I prefer to be called Yarot.
 
-One day in 2019, I deleted my old GitHub account, so I'm afraid I can't offer it as proof of anything I've contributed to.
-
-In 2020, after I left my job as a gas station attendant, I created this account in hopes that I might be able to work on my skills as a programmer
-once more. Since then, I have created a handful of small projects that haven't really gone anywhere but have helped me learn new things, form better
-habits, and (attempt) to kick the bad ones. I picked up the Rust programming language some time back and have been enjoying my journey with it.
+I deleted my old GitHub account in 2019, so I cannot offer it as proof of anything I've contributed to in the past.
 
 Most of my projects on here will probably be archived eventually, for one reason or another, but most of it is here for self-improvement so feel free
 to critique it as you see fit. I will likely be better for it.
