@@ -21,6 +21,6 @@ to critique it as you see fit. I will likely be better for it.
 
 <!-- GitHub Stat Cards -->
 <div white-space="nowrap">
-    <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jwfufa&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf">
-    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jwfufa&hide_border=true&theme=dark&text_color=fff">
+    <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=azyklus&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf">
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=azyklus&hide_border=true&theme=dark&text_color=fff">
 </div>
