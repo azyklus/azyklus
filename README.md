@@ -2,8 +2,6 @@
 
 My name is Malachi, although I prefer to be called Yarot.
 
-I deleted my old GitHub account in 2019, so I cannot offer it as proof of anything I've contributed to in the past.
-
 Most of my projects on here will probably be archived eventually, for one reason or another, but most of it is here for self-improvement so feel free
 to critique it as you see fit. I will likely be better for it.
 
