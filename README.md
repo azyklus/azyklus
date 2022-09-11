@@ -7,7 +7,7 @@ to critique it as you see fit. I will likely be better for it.
 
 <br/>
 
-- 🔭 I am currently working on a bare-bones operating system [for a series of articles on Medium](https://github.com/azyklus/sys3);
+- 🔭 I am currently working on a bare-bones [operating system](https://github.com/azyklus/sys3) for a series I'm doing on [Medium](https://medium.com/@zaiqi);
 - 🌱 I am currently experimenting with the [Julia](https://julialang.org/) programming language;
 - 👯 I am looking to collaborate more on open source in general;
 - 💬 Feel free to ask me about my code, my interests, hobbies, and more;
