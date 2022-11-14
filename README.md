@@ -5,6 +5,8 @@ My name is Malachi, and I am so happy you're here!
 Most of my projects on here will probably be archived eventually, for one reason or another, but most of it is here for self-improvement so feel free
 to critique it as you see fit. I will likely be better for it.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M4GDIVQ)
+
 <br/>
 
 - 🔭 I am currently working on a bare-bones [operating system](https://github.com/azyklus/sys3) for a series I'm doing on [Medium](https://medium.com/@zaiqi);
