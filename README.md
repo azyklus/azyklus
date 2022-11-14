@@ -38,8 +38,10 @@ to critique it as you see fit. I will likely be better for it.
 </p>
 <ul>
     <li>
-        Offer your code. You can become a contributor to this repository and offer some measure of
-        assurance that this project is alive and well on the days that I am indisposed.
+        Offer your code. You may fork select projects and make changes to them and submit a pull
+        request that I will then review and apply changes on the basis of merit.
+        You can also become a contributor to my projects and ensure that my projects
+        remain high-quality and unblemished.
     </li>
     <li>
         Offer guidance. If you wish, you may advise me on the direction you think is best for this
@@ -53,34 +55,49 @@ to critique it as you see fit. I will likely be better for it.
 </ul>
 
 ### Getting in Touch
-
+<p>
     If you ever want to reach out, there are a few places that you can find me:
-    - Twitter. (https://twitter.com/azyklus). You may find success with me here and you may not.
-      I try to avoid using Twitter, though I appear to be addicted to scrolling the feed in my
-      downtime, so we will see.
-    - Mastodon. (https://mstdn.social/@azyklus). I am hoping to phase out Twitter entirely in favor
-      of the Mastodon federation. A decentralized network that cannot be bought out entirely seems
-      like a wonderful idea to me right about now with all the controversy behind the curtain at
-      Twitter HQ.
-    - Discord. (https://discord.gg/B9agTdVH4U). My Discord server may just be the best place to find
-      me as I am always watching and it is really the only place I do not have notifications disabled
-      for altogether. I am King Twit here, so enjoy the show!
-    - YouTube. (https://youtube.com/@mackymay). This channel is literally ancient by any reasonable
-      standard, but I do intend to post some of my work in action on there when I get to that point.
-    - Twitch. (https://twitch.tv/azyklus). I intend to start streaming as I work on certain projects
-      in the future and I will be doing it through Twitch and YouTube.
-    - Instagram. (https://instagram.com/azyklus). I don't post much here except the occasional dog
-      picture. Sometimes it is cathartic, other times it is just annoying. You be the judge!
-    - Patreon. (https://patreon.com/zaiqi). I accept donations here and will offer some membership
-      perks to those willing to help me eek out a living doing the work that matters to me!
-    - Ko-Fi. (https://ko-fi.com/azyklus). I would vastly prefer that you donate on Ko-Fi if you so
-      choose, primarily because of the lower fees relative to Patreon as well as the fact that I am
-      going to be posting more frequent updates on Ko-Fi.
+</p>
+<ul>
+    <li>
+        Twitter. (https://twitter.com/azyklus). You may find success with me here and you may not.
+        I try to avoid using Twitter, though I appear to be addicted to scrolling the feed in my
+        downtime, so we will see.
+    </li>
+    <li>
+        Mastodon. (https://mstdn.social/@azyklus). I am hoping to phase out Twitter entirely in favor
+        of the Mastodon federation. A decentralized network that cannot be bought out entirely seems
+        like a wonderful idea to me in the year of our lord, 2022, with all the controversy behind the curtain at
+        Twitter HQ.
+    </li>
+    <li>
+        Discord. (https://discord.gg/B9agTdVH4U). My Discord server may just be the best place to find
+        me as I am always watching and it is really the only place I do not have notifications disabled
+        for altogether. I am King Twit here, so enjoy the show!
+    </li>
+    <li>
+        YouTube. (https://youtube.com/@azyklus). This channel is literally ancient by my very reasonable
+        standard, but I do intend to post some of my work in action on there when I get to that point.
+    </li>
+    <li>
+        Twitch. (https://twitch.tv/azyklus). I intend to start streaming as I work on certain projects
+        in the future and I will be doing it through Twitch and YouTube.
+    </li>
+    <li>
+        Instagram. (https://instagram.com/azyklus). I don't post much here except the occasional dog
+        picture. Sometimes it is cathartic, other times it is just annoying. You be the judge!
+    </li>
+    <li>
+        Ko-Fi. (https://ko-fi.com/azyklus). I will accept donations here and will offer some membership
+        perks to those willing to help me eek out a living doing the work that matters to me!
+    </li>
+</ul>
 
 ### Thank You
-
+<p>
     I appreciate all the support! If you can find it in your heart to assist an aspiring programmer
     in any way, then I tip my hat to you!
+</p>
 
 <hr/>
 
