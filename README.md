@@ -44,8 +44,8 @@ to critique it as you see fit. I will likely be better for it.
         remain high-quality and unblemished.
     </li>
     <li>
-        Offer guidance. If you wish, you may advise me on the direction you think is best for this
-        project to take; I am reachable on any of the platforms I list in the section below.
+        Offer guidance. If you wish, you may advise me on the direction you think is best for my
+        projects to take; I am reachable on any of the platforms I list in the section below.
     </li>
     <li>
         Donate to the cause. You are able to donate to support my work if you feel so inclined.
