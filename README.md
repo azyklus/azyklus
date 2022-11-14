@@ -11,9 +11,76 @@ to critique it as you see fit. I will likely be better for it.
 - 🌱 I am currently experimenting with the [Julia](https://julialang.org/) programming language;
 - 👯 I am looking to collaborate more on open source in general;
 - 💬 Feel free to ask me about my code, my interests, hobbies, and more;
-- 📫 How to reach me: [I am on Twitter](https://twitter.com/azyklus);
+- 📫 How to reach me: [I am on Mastodon!](https://mstdn.social/@azyklus);
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: Learned C through my childhood with the help of my uncle.
+
+<br/>
+
+### Who I Am
+<p>
+    I am an aspiring programmer working on various projects that matter to me for one reason or
+    another. I have been interested in the inner workings of computers for as long as I can
+    remember, and more recently I have become interested in artificial intelligence and the field's
+    implications for the future of computing.
+</p>
+<p>
+    As of 2022 Nov 14, I am twenty years old; I have been working on my skills as a programmer for
+    a little over half of my life up to this point, but even then there is a lot that I have not
+    been exposed to and I am looking to slowly change that.
+    I learned the C programming language throughout my childhood with the help of my uncle who
+    has been in the field for my entire life!
+</p>
+
+### How You Can Help
+<p>
+    If you wish to help, there are a few ways that you can do that:
+</p>
+<ul>
+    <li>
+        Offer your code. You can become a contributor to this repository and offer some measure of
+        assurance that this project is alive and well on the days that I am indisposed.
+    </li>
+    <li>
+        Offer guidance. If you wish, you may advise me on the direction you think is best for this
+        project to take; I am reachable on any of the platforms I list in the section below.
+    </li>
+    <li>
+        Donate to the cause. You are able to donate to support my work if you feel so inclined.
+        All donations I receive will go to supporting my ability to continue working on these projects.
+        You can find my donation links in the section below.
+    </li>
+</ul>
+
+### Getting in Touch
+
+    If you ever want to reach out, there are a few places that you can find me:
+    - Twitter. (https://twitter.com/azyklus). You may find success with me here and you may not.
+      I try to avoid using Twitter, though I appear to be addicted to scrolling the feed in my
+      downtime, so we will see.
+    - Mastodon. (https://mstdn.social/@azyklus). I am hoping to phase out Twitter entirely in favor
+      of the Mastodon federation. A decentralized network that cannot be bought out entirely seems
+      like a wonderful idea to me right about now with all the controversy behind the curtain at
+      Twitter HQ.
+    - Discord. (https://discord.gg/B9agTdVH4U). My Discord server may just be the best place to find
+      me as I am always watching and it is really the only place I do not have notifications disabled
+      for altogether. I am King Twit here, so enjoy the show!
+    - YouTube. (https://youtube.com/@mackymay). This channel is literally ancient by any reasonable
+      standard, but I do intend to post some of my work in action on there when I get to that point.
+    - Twitch. (https://twitch.tv/azyklus). I intend to start streaming as I work on certain projects
+      in the future and I will be doing it through Twitch and YouTube.
+    - Instagram. (https://instagram.com/azyklus). I don't post much here except the occasional dog
+      picture. Sometimes it is cathartic, other times it is just annoying. You be the judge!
+    - Patreon. (https://patreon.com/zaiqi). I accept donations here and will offer some membership
+      perks to those willing to help me eek out a living doing the work that matters to me!
+    - Ko-Fi. (https://ko-fi.com/azyklus). I would vastly prefer that you donate on Ko-Fi if you so
+      choose, primarily because of the lower fees relative to Patreon as well as the fact that I am
+      going to be posting more frequent updates on Ko-Fi.
+
+### Thank You
+
+    I appreciate all the support! If you can find it in your heart to assist an aspiring programmer
+    in any way, then I tip my hat to you!
 
 <hr/>
 
