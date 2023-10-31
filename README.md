@@ -14,10 +14,6 @@ but I hope that anyone passing by would take the time to support me in some way,
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/herroh)
 [![buy-me-coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azyklus)
 
-<div>
-    <img align="center" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=azyklus&theme=gruvbox" />
-</div>
-
 <br/>
 
 - 🔭 I am currently working on an experimental [operating system](https://github.com/azyklus/sys3);
@@ -29,6 +25,10 @@ but I hope that anyone passing by would take the time to support me in some way,
 - ⚡ Fun fact: Learned C as a kid, C# when I was a teen, and quickly decided that Rust was superior to all.
 
 <br/>
+
+<div>
+    <img align="center" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=azyklus&theme=gruvbox" />
+</div>
 
 ### Who I Am
 <p>
