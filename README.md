@@ -7,7 +7,8 @@
 Welcome to my profile—I am so happy you're here!
 
 I use my GitHub account as an archive of many past, present, and probably future projects. Most of these will likely be archived or even deleted at some point,
-but I hope that anyone passing by would take the time to support me in some way, possibly by offering constructive criticism or by clicking on one of these buttons:
+but I hope that anyone passing by would take the time to support me in some way, possibly by offering advice, constructive criticism, or by clicking on one of
+these buttons and donating to me:
 
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/M4M4GDIVQ)
 [![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/azyklus)
