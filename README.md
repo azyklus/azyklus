@@ -1,37 +1,49 @@
-## Hi there 👋
+# I am Az 🦄
+
+<div>
+    <img align="left" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azyklus&theme=2077" />
+</div>
 
 Welcome to my profile—I am so happy you're here!
 
-Most of my projects on here will probably be archived eventually, for one reason or another, but most of it is here for self-improvement so feel free
-to critique it as you see fit. I will likely be better for it.
+I use my GitHub account as an archive of many past, present, and probably future projects. Most of these will likely be archived or even deleted at some point,
+but I hope that anyone passing by would take the time to support me in some way, possibly by offering constructive criticism or by clicking on one of these buttons:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M4GDIVQ)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/M4M4GDIVQ)
+[![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/azyklus)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/herroh)
+[![buy-me-coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azyklus)
+
+<div>
+    <img align="center" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=azyklus&theme=gruvbox" />
+</div>
 
 <br/>
 
-- 🔭 I am currently working on a bare-bones [operating system](https://github.com/azyklus/sys3) for a series I'm doing on [Medium](https://medium.com/@zaiqi);
-- 🌱 I am currently experimenting with the [Julia](https://julialang.org/) programming language;
+- 🔭 I am currently working on an experimental [operating system](https://github.com/azyklus/sys3);
+- 🌱 I am currently experimenting with the [Julia](https://julialang.org/) and [Zig](https://ziglang.org) programming languages;
 - 👯 I am looking to collaborate more on open source in general;
 - 💬 Feel free to ask me about my code, my interests, hobbies, and more;
-- 📫 How to reach me: [I am on Mastodon!](https://mstdn.social/@azyklus);
-- 😄 Pronouns: He/Him;
-- ⚡ Fun fact: Learned C through my childhood with the help of my uncle.
+- 📫 How to reach me: [I am on Mastodon!](https://mas.to/@zub);
+- 😄 Pronouns: He/Him or They/Them;
+- ⚡ Fun fact: Learned C as a kid, C# when I was a teen, and quickly decided that Rust was superior to all.
 
 <br/>
 
 ### Who I Am
 <p>
-    I am an aspiring programmer working on various projects that matter to me for one reason or
-    another. I have been interested in the inner workings of computers for as long as I can
-    remember, and more recently I have become interested in artificial intelligence and the field's
-    implications for the future of computing.
+    I am a programmer and a writer. While growing up I learned to code through one of the only
+    real role models in my life and have been honing my skills with one project or another almost
+    every day since. Most frequently I spend my days writing code for projects both personal and
+    freelance, and contributing to other open source projects. I enjoy spending time outdoors hiking
+    and walking my dogs, and I generally like to be around other people and make them laugh and smile.
 </p>
 <p>
-    As of 2022 Nov 14, I am twenty years old; I have been working on my skills as a programmer for
-    a little over half of my life up to this point, but even then there is a lot that I have not
-    been exposed to and I am looking to slowly change that.
-    I learned the C programming language throughout my childhood with the help of my uncle who
-    has been in the field for my entire life!
+    I am always working on various projects that matter to me for one reason or another.
+    I have been interested in the inner workings of computers for as long as I can remember,
+    and more recently I have become interested in AI and distributed systems. I want to
+    experiment with these subjects and see what I can build!
+    (see <a href="https://github.com/azyklus/sys3">sys3</a> and <a href="https://github.com/azyklus/t2">Trident</a>)
 </p>
 
 ### How You Can Help
@@ -62,15 +74,10 @@ to critique it as you see fit. I will likely be better for it.
 </p>
 <ul>
     <li>
-        Twitter. (https://twitter.com/azyklus). You may find success with me here and you may not.
-        I try to avoid using Twitter, though I appear to be addicted to scrolling the feed in my
-        downtime, so we will see.
-    </li>
-    <li>
-        Mastodon. (https://mstdn.social/@azyklus). I am hoping to phase out Twitter entirely in favor
-        of the Mastodon federation. A decentralized network that cannot be bought out entirely seems
-        like a wonderful idea to me in the year of our lord, 2022, with all the controversy behind the curtain at
-        Twitter HQ.
+        Mastodon. (https://elk.zone/mas.to/@zub). Having entirely phased out Twitter, most of my
+        nonsense and vague intrigue goes into my Mastodon page now. Mostly, I just repost things that
+        matter to me or that grab my attention in some significant way, but I also post updates to
+        select projects there as well.
     </li>
     <li>
         Discord. (https://discord.gg/B9agTdVH4U). My Discord server may just be the best place to find
@@ -79,19 +86,21 @@ to critique it as you see fit. I will likely be better for it.
     </li>
     <li>
         YouTube. (https://youtube.com/@azyklus). This channel is literally ancient by my very reasonable
-        standard, but I do intend to post some of my work in action on there when I get to that point.
+        standard, but I do intend to post some of my work in action and some commentary on interesting
+        subjects in the tech arena when I get to a more stable point.
     </li>
     <li>
         Twitch. (https://twitch.tv/azyklus). I intend to start streaming as I work on certain projects
         in the future and I will be doing it through Twitch and YouTube.
     </li>
     <li>
-        Instagram. (https://instagram.com/azyklus). I don't post much here except the occasional dog
-        picture. Sometimes it is cathartic, other times it is just annoying. You be the judge!
-    </li>
-    <li>
         Ko-Fi. (https://ko-fi.com/azyklus). I will accept donations here and will offer some membership
         perks to those willing to help me eek out a living doing the work that matters to me!
+    </li>
+    <li>
+        Patreon. (https://patreon.com/azyklus). I accept donations here as well, though I haven't set up
+        proper membership perks yet. This is more of a secondary space since Ko-Fi does not take fees at
+        the moment and Patreon does.
     </li>
 </ul>
 
@@ -105,6 +114,11 @@ to critique it as you see fit. I will likely be better for it.
 
 <!-- GitHub Stat Cards -->
 <div white-space="nowrap">
-    <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=azyklus&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf">
-    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=azyklus&hide_border=true&theme=dark&text_color=fff">
+    <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azyklus&theme=gruvbox" />
+    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=azyklus&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf" />
+    <img align="center" alt="Gists" src="https://gists-readme.yizack.com/api?user=azyklus" />
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=azyklus&hide_border=true&theme=dark&text_color=fff" />
+</div>
+
+<div white-space="nowrap">
 </div>
