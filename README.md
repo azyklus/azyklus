@@ -18,7 +18,7 @@ these buttons and donating to me:
 <br/>
 
 - 🔭 I am currently working on an experimental [operating system](https://github.com/azyklus/sys3);
-- 🌱 I am currently experimenting with the [Julia](https://julialang.org/) and [Zig](https://ziglang.org) programming languages;
+- 🌱 I am currently experimenting with the [Mojo](https://docs.modular.com/mojo/manual/basics.html) programming language;
 - 👯 I am looking to collaborate more on open source in general;
 - 💬 Feel free to ask me about my code, my interests, hobbies, and more;
 - 📫 How to reach me: [I am on Mastodon!](https://mas.to/@zub);
@@ -117,7 +117,6 @@ these buttons and donating to me:
 <div white-space="nowrap">
     <img align="left" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azyklus&theme=gruvbox" />
     <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=azyklus&count_private=true&show_icons=true&hide_border=true&theme=dark&text_color=dfdfdf" />
-    <img align="center" alt="Gists" src="https://gists-readme.yizack.com/api?user=azyklus" />
     <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=azyklus&hide_border=true&theme=dark&text_color=fff" />
 </div>
 
