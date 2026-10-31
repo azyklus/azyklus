@@ -1,29 +1,33 @@
-# I am Kell 🦄
+# 🤖 I am Kell 🦄
 
 <div>
     <img align="left" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azyklus&theme=2077" />
 </div>
 
-Welcome to my profile—I am so happy you're here!
+Welcome to my profile—_I am happy you're here!_
 
-I use my GitHub account as an archive of many past, present, and probably future projects. Most of these will likely be archived or even deleted at some point,
-but I hope that anyone passing by would take the time to support me in some way, possibly by offering advice, constructive criticism, or by clicking on one of
-these buttons and donating to me:
+I use my GitHub account as an archive of many past, present, and possibly future projects. The vast majority of projects contained herein will most likely
+be archived or even deleted at some point, although I hope that anyone passing by would take the time to support me in some way, possibly by offering advice,
+constructive criticism, or by clicking on one of these buttons and donating to me if possible:
 
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/M4M4GDIVQ)
-[![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/azyklus)
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/herroh)
 [![buy-me-coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/azyklus)
 
 <br/>
 
-- 🔭 I am currently working on an experimental [operating system](https://github.com/azyklus/sys3);
-- 🌱 I am currently experimenting with the [Mojo](https://docs.modular.com/mojo/manual/basics.html) programming language;
-- 👯 I am looking to collaborate more on open source in general;
-- 💬 Feel free to ask me about my code, my interests, hobbies, and more;
-- 📫 How to reach me: [I am on Mastodon!](https://mas.to/@zub);
-- 😄 Pronouns: He/Him or They/Them;
-- ⚡ Fun fact: Learned C as a kid, C# when I was a teen, and quickly decided that Rust was superior to all.
+- 🔭 I am currently working to integrate a basic LLM with an experimental operating system.
+- 👯 I am generally looking to collaborate more on open source projects!
+- 📫 Feel free to reach out to me on Matrix: `@azyklus:mozilla.org`
+- 💬 You may feel free to ask me about my code, my interests, hobbies, and more.
+- 😄 I go by He/Him or They/Them as my third-person pronouns in English, 也是我经常用他/他们(中文).
+- 🗣️ Spoken languages:
+    - English is my native language, but
+    - 我中文好说了,
+    - Mon français oral est acceptable,
+    - y mi español hablado está bien.
+    - Мой разговорный русский — ужасный.
+- ⚡ Fun fact: The language you learn first exerts a heavy influence in the development of problem solving skills!
 
 <br/>
 
@@ -33,83 +37,66 @@ these buttons and donating to me:
 
 ### Who I Am
 <p>
-    I am a programmer and a writer. While growing up I learned to code through one of the only
-    real role models in my life and have been honing my skills with one project or another almost
-    every day since. Most frequently I spend my days writing code for projects both personal and
-    freelance, and contributing to other open source projects. I enjoy spending time outdoors hiking
-    and walking my dogs, and I generally like to be around other people and make them laugh and smile.
+    I am a programmer and a writer, primarily self-taught in most areas, though I have returned
+    to school and I am studying linguistics. I am particularly interested in language as it relates
+    to human perception and our complex social systems, although I also maintain that the best way to
+    create an artificial intelligence is to _model humans_ as a collective—not to _steal_ from them.
 </p>
 <p>
     I am always working on various projects that matter to me for one reason or another.
     I have been interested in the inner workings of computers for as long as I can remember,
-    and more recently I have become interested in AI and distributed systems. I want to
-    experiment with these subjects and see what I can build!
-    (see <a href="https://github.com/azyklus/sys3">sys3</a> and <a href="https://github.com/azyklus/t2">Trident</a>)
+    and very quickly became interested in AI and distributed systems as a kid. Even though,
+    frankly, I do not like AI in its current state, and wish I could 🔪 it with 🔥, I still
+    want to contribute meaningfully to the field—however that may be.
+    <br/>
+    Most of my projects exist on Codeberg these days, but I still use this GitHub account
+    to facilitate interactions with other open source projects which exist here, as the mood
+    strikes me. Anyone interested in collaborating with me may always feel free to reach out
+    to me through any of the avenues listed below. A good conversation to me means the world!
 </p>
 
 ### How You Can Help
 <p>
-    If you wish to help, there are a few ways that you can do that:
+    If you wish to help me, there are a few ways that you can do that:
 </p>
 <ul>
-    <li>
-        Offer your code. You may fork select projects and make changes to them and submit a pull
-        request that I will then review and apply changes on the basis of merit.
-        You can also become a contributor to my projects and ensure that my projects
-        remain high-quality and unblemished.
-    </li>
     <li>
         Offer guidance. If you wish, you may advise me on the direction you think is best for my
         projects to take; I am reachable on any of the platforms I list in the section below.
     </li>
     <li>
-        Donate to the cause. You are able to donate to support my work if you feel so inclined.
-        All donations I receive will go to supporting my ability to continue working on these projects.
-        You can find my donation links in the section below.
+        Donate to the cause. Once I properly set up donations and any related perks, that is.
+        For now, the best way to support me is to talk to me!
     </li>
 </ul>
 
-### Getting in Touch
+### My Favourite Internet Locales
 <p>
     If you ever want to reach out, there are a few places that you can find me:
 </p>
 <ul>
     <li>
-        Mastodon. (https://elk.zone/mas.to/@zub). Having entirely phased out Twitter, most of my
-        nonsense and vague intrigue goes into my Mastodon page now. Mostly, I just repost things that
-        matter to me or that grab my attention in some significant way, but I also post updates to
-        select projects there as well.
+        Mastodon. (mas.to/@zub). I frequently repost things which are interesting to me,
+        and I very infrequently post anything myself. When I do post, it's either a blog update that I may
+        quickly take down, or it is about something stupid that I did or something stupid that happened to me.
     </li>
     <li>
-        Discord. (https://discord.gg/B9agTdVH4U). My Discord server may just be the best place to find
-        me as I am always watching and it is really the only place I do not have notifications disabled
-        for altogether. I am King Twit here, so enjoy the show!
+        Discord. (@azyklus). I do not hang around Discord very much anymore, save for
+        my clan, and a small number of other communities.
     </li>
     <li>
-        YouTube. (https://youtube.com/@azyklus). This channel is literally ancient by my very reasonable
-        standard, but I do intend to post some of my work in action and some commentary on interesting
-        subjects in the tech arena when I get to a more stable point.
+        Matrix. (@azyklus:mozilla.org). Generally, I prefer using Matrix over Discord,
+        but it's not everyone's cup of tea.
     </li>
     <li>
-        Twitch. (https://twitch.tv/azyklus). I intend to start streaming as I work on certain projects
-        in the future and I will be doing it through Twitch and YouTube.
+        YouTube. (https://youtube.com/@azyklus). This channel is literally ancient,
+        but I do have interesting projects in play for the future!
     </li>
     <li>
         Ko-Fi. (https://ko-fi.com/azyklus). I will accept donations here and will offer some membership
         perks to those willing to help me eek out a living doing the work that matters to me!
     </li>
-    <li>
-        Patreon. (https://patreon.com/azyklus). I accept donations here as well, though I haven't set up
-        proper membership perks yet. This is more of a secondary space since Ko-Fi does not take fees at
-        the moment and Patreon does.
-    </li>
 </ul>
-
-### Thank You
-<p>
-    I appreciate all the support! If you can find it in your heart to assist an aspiring programmer
-    in any way, then I tip my hat to you!
-</p>
 
 <hr/>
 
