@@ -4,7 +4,7 @@
     <img align="left" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azyklus&theme=2077" />
 </div>
 
-Welcome to my profile—_I am happy you're here!_
+Welcome to my profile—*I am happy you're here!*
 
 I use my GitHub account as an archive of many past, present, and possibly future projects. The vast majority of projects contained herein will most likely
 be archived or even deleted at some point, although I hope that anyone passing by would take the time to support me in some way, possibly by offering advice,
@@ -40,7 +40,8 @@ constructive criticism, or by clicking on one of these buttons and donating to m
     I am a programmer and a writer, primarily self-taught in most areas, though I have returned
     to school and I am studying linguistics. I am particularly interested in language as it relates
     to human perception and our complex social systems, although I also maintain that the best way to
-    create an artificial intelligence is to _model humans_ as a collective—not to _steal_ from them.
+    create an artificial intelligence is to <i>model humans</i> as a collective—not to <i>steal from them</i>
+    on as-yet-indeterminately-massive scale, of which has been hitherto unheard and unseen.
 </p>
 <p>
     I am always working on various projects that matter to me for one reason or another.
