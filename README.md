@@ -41,7 +41,7 @@ constructive criticism, or by clicking on one of these buttons and donating to m
     to school and I am studying linguistics. I am particularly interested in language as it relates
     to human perception and our complex social systems, although I also maintain that the best way to
     create an artificial intelligence is to <i>model humans</i> as a collective—not to <i>steal from them</i>
-    on as-yet-indeterminately-massive scale, of which has been hitherto unheard and unseen.
+    on an as-yet-indeterminately-massive scale, of which has been hitherto unheard and unseen.
 </p>
 <p>
     I am always working on various projects that matter to me for one reason or another.
